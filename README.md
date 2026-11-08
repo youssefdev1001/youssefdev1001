@@ -3,7 +3,7 @@
 <h3 align="center">💻 Web Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Enthusiast;Always+Learning+New+Technologies;Building+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Enthusiast;React.js+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -12,6 +12,7 @@
 
 - 🌱 Always learning and improving my programming skills.
 - 💻 Passionate about Web Development.
+- ⚛️ Learning and working with React.js.
 - 🚀 Interested in building modern and responsive websites.
 - 🛠️ I enjoy creating projects and exploring new technologies.
 - 🎯 Always looking for new challenges and opportunities to grow.
@@ -21,7 +22,7 @@
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,python,mysql,git,github,linux,vscode" />
 </p>
 
 ---
