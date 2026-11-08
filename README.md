@@ -1,8 +1,66 @@
-<h1 align="center">Hi 👋, I'm EL MOUDDEN Youssef</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# Hi 👋, I'm El Moudden Youssef
+
+<h3 align="center">💻 Web Developer | 🚀 Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Enthusiast;Always+Learning+New+Technologies;Building+Ideas+Into+Reality" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 About Me
+
+- 🌱 Always learning and improving my programming skills.
+- 💻 Passionate about Web Development.
+- 🚀 Interested in building modern and responsive websites.
+- 🛠️ I enjoy creating projects and exploring new technologies.
+- 🎯 Always looking for new challenges and opportunities to grow.
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,mysql,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefdev1001&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefdev1001&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=youssefdev1001&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/youssefdev1001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=youssefdev1001&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ "Code. Learn. Build. Repeat."</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
